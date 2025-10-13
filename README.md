@@ -1,3 +1,13 @@
+<!-- Banner -->
+<p align="center">
+  <img 
+    src="https://scontent.fyhu2-1.fna.fbcdn.net/v/t39.30808-6/503614412_122127491804829439_8640354785603918126_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=OtmMQpYrItEQ7kNvwHZMc-r&_nc_oc=AdmS9K-L-CgDeLsdxunI1rY2wh8x0SXflz9hvIGLgy49-c9sK3fL4r0pyiPAsOozfNA&_nc_zt=23&_nc_ht=scontent.fyhu2-1.fna&_nc_gid=EZoF8c_YBSRVeAoZU_AVwA&oh=00_Afe4iYrmGw9EbD1yrpxq9uAKBxgbTncBJ_vuHNXTSkDQTA&oe=68F314A5" 
+    alt="Unikom banner"
+    width="100%"
+    style="border-radius:12px; object-fit:cover; max-height:240px;"
+  />
+</p>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Glad you stumbled in.</h1>
 
 <p>Welcome to my corner of the internet!<br>
@@ -32,10 +42,9 @@ I'm <b>Yan</b>, full-stack developer from <img src="https://cdn-icons-png.flatic
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/unikom-dev" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/tonpoteyan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yan-luque" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/unikom.ca" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://www.instagram.com/tonpoteyan_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <hr/>
