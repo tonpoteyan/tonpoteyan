@@ -1,7 +1,6 @@
 <img width="820" height="360" alt="image" src="https://github.com/user-attachments/assets/4d281c3d-d529-4a2a-886c-4edc629e0415" /><!-- Banner -->
 <p align="center">
   <img 
-    src="<img width="820" src="https://github.com/user-attachments/assets/7a7a9c89-a546-4426-830b-dc59b51f8a2f" />
 </p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Glad you stumbled in.</h1>
