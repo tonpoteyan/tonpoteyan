@@ -3,9 +3,7 @@
   <img 
     src="<img width="820" height="360" alt="image" src="https://github.com/user-attachments/assets/7a7a9c89-a546-4426-830b-dc59b51f8a2f" />
 " 
-    alt="Unikom banner"
-    width="100%"
-    style="border-radius:12px; object-fit:cover; max-height:240px;"
+
   />
 </p>
 
