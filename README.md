@@ -44,3 +44,5 @@ I'm <b>Yan</b>, full-stack developer from <img src="https://cdn-icons-png.flatic
 
 <hr/>
 <p align="center"><i>Probably debugging something that worked yesterday.</i></p>
+
+![tonpoteyan's Stats](https://github-readme-stats.vercel.app/api?username=tonpoteyan&theme=vue-dark&show_icons=true&hide_border=true&count_private=false) ![tonpoteyan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonpoteyan&theme=vue-dark&hide_border=true)
